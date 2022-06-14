@@ -17,16 +17,12 @@
     "url": "https://github.com/lkshan/dummy-react-npm-module/issues"
   },
   "homepage": "https://github.com/lkshan/dummy-react-npm-module#readme",
-  "peerDependencies": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
-  },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
     "@babel/core": "^7.18.5",
     "@babel/preset-env": "^7.18.2",
     "@babel/preset-react": "^7.17.12",
-    "react": "*",
-    "react-dom": "*"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   }
 }
